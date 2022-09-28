@@ -1,2 +1,2 @@
 # Master-IA-Big-Data-Dauphine-Spark
-Projets sur Spark 
+Projets sur Spark Rdd & DF
