@@ -1,5 +1,4 @@
-# Master-IA-Big-Data-Dauphine-Spark
-Projets sur Spark Rdd & DF
+#Projets sur Spark Rdd & DF
 Tous les jeux de données sont issus de SNAP Stanford
 
 fichier CCF_DF_Soc_protec_googlecloud_dataproc.py => version code DataFrame pour spark DataProc (jeu de données Soc-pokec-relationships)
